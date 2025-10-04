@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div className='flex justify-between mt-4 mb-4  shadow-lg'>
+    <div className='flex justify-between mt-4 mb-4 fixed top-0 left-52 right-0 z-30 h-11 shadow-lg'>
         <div className='flex justify-start'>
             <div className='ml-3 text-lg font-semibold'>Payouts</div>
             <div className='flex justify-start ml-2 hover:cursor-pointer'>
