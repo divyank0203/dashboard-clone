@@ -3,7 +3,7 @@ import React from 'react'
 function Revenuebox() {
   return (
     <div className='grid grid-cols-3'>
-    <div className='bg-blue-600 text-white rounded-lg m-2 col-span-1'>
+    <div className='bg-blue-600 hover:bg-blue-800 text-white rounded-lg m-2 col-span-1'>
         <div className=' flex justify-start text-sm pl-3 pt-3 '>
             <div className=''>Next Payout</div>
             <div className='pl-2'><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-5">
