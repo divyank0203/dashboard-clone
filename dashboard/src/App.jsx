@@ -14,7 +14,7 @@ function App() {
     <>
     <Sidebar/>
     <Navbar/>
-    <div className='pt-16 pl-52'>
+    <div className='pt-16 md:pl-52'>
     <p className='m-3 tex-lg font-bold'>Overview</p>
       <Revenuebox/>
     </div>

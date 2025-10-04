@@ -3,7 +3,7 @@ import Box from './Box'
 
 function Revenuebox() {
   return (
-    <div className='grid md:grid-cols-2 lg:grid-cols-3 grid-cols-1 sm:grid-cols-2'>
+    <div className='grid lg:grid-cols-3 grid-cols-1 sm:grid-cols-2'>
     <div className='bg-blue-600 hover:bg-blue-800 text-white rounded-lg m-2 col-span-1 shadow-md'>
         {/* <div className=' flex justify-start text-sm pl-3 pt-3 '>
             <div className=''>Next Payout</div>
