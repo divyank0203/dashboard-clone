@@ -26,7 +26,7 @@ function Navbar() {
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"/>
             </svg>
         </div>
-        <input type="text" className='block p-3 pl-9 mb-3 bg-gray-200 rounded-md w-96 h-8' placeholder='Search Features, Tutorial, etc.' />
+        <input type="text" className='block p-3 pl-9 mb-3 pr-24 bg-gray-200 rounded-md w-96 h-8' placeholder='Search Features, Tutorial, etc.' />
         <button type="submit" class="text-white absolute end-2.5 bottom-1.5 h-5 bg-gray-600 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-xs px-4 py-0.5  dark:hover:bg-blue-700 dark:focus:ring-blue-800">Search</button>
     </div>
 
